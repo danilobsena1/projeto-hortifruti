@@ -1,0 +1,26 @@
+body{
+	background-image: url("398535-PCOFKY-936.jpg");
+	background-size: 1320px 855px;
+}
+h1{
+	color: red;
+	text-align: center;
+}
+
+h3{
+	text-align: center; 
+}
+form{
+	
+	margin: 0 auto;
+	width: 400px;
+	padding: 25px;
+	margin-top: 290px;
+	border: 2px solid black;
+	border-radius: 2em;
+	border-color: #000 #090 #900 #009;
+}
+
+button{
+	margin-left: 260px;
+}
